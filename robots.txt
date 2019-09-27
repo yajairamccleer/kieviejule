@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yaetahhoya.jsav.io/sitemap.xml
